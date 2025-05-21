@@ -4,8 +4,8 @@ I am a product-focused, full-stack software engineer with 10 years of full-time 
 and 15 years of tinkering before that.
 
 My primary languages are **Python** (typed as often as possible) and **JavaScript/TypeScript**,
-though I am also quite comfortable working with **Rust** and **Go**.
-Favorite technologies include **PostgreSQL**, because it is incredible and powerful.
+though I am also quite comfortable working with **Rust** and, to a lesser extend, **Go**.
+Favorite technologies include **PostgreSQL**, because it is powerful!
 
 For most of my career, I have been employed at or (as a consultant) embedded in smaller companies,
 which is where I most thrive. The more hats I need to wear the happier I am, from meeting with product owners
