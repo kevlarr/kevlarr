@@ -1,9 +1,9 @@
 # About Me
 
-I am a product-focused, full-stack software engineer with 10 years of full-time experience
-and 15 years of tinkering before that.
+I am a product-focused, full-stack software engineer with 10 years of full-time experience -
+and 15 years of periodic tinkering before that!
 
-My primary languages are **Python** (with type annotations) and **JavaScript/TypeScript**,
+My primary languages are **Python** (typed!) and **JavaScript/TypeScript**,
 though I am also quite comfortable working with **Rust** and, to a lesser extend, **Go**.
 Favorite technologies include **PostgreSQL**, because it is powerful!
 
