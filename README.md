@@ -12,6 +12,3 @@ which is where I most thrive. The more hats I need to wear the happier I am, fro
 or users to determine the direction of a feature or product to building out UIs/APIs,
 improving developer experience on projects, creating CI/CD pipelines (in particular Gitlab/Github Actions),
 and managing infrastructure (typically via **Terraform** on AWS but with some experience on GCP).
-
-I have a few side projects that I split my (very limited) free time between, most of which are private - 
-the more interesting (to me) public ones can be found at [crude computer](https://github.com/crudecomputer).
