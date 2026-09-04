@@ -1,14 +1,9 @@
 # About Me
 
-I am a product-focused, full-stack software engineer with 10 years of full-time experience -
-and 15 years of periodic tinkering before that!
+I'm a full-stack software engineer with a backend focus, a hint of product, and 11 years of experience -
+and 15 years of tinkering before that.
 
-My primary languages are **Python** (typed!) and **JavaScript/TypeScript**,
-though I am also quite comfortable working with **Rust** and, to a lesser extend, **Go**.
-Favorite technologies include **PostgreSQL**, because it is powerful!
+I write Python, Go, TypeScript (Svelte/Kit is incredible), and anything else I need to — but I mainly stick to those three.
+I love PostgreSQL because it's incredible and Terraform because CloudFormation isn't...
 
-For most of my career, I have been employed at or, as a consultant, embedded in smaller companies,
-which is where I most thrive. The more hats I need to wear the happier I am, from meeting with product owners
-or users to determine the direction of a feature or product to building out UIs/APIs,
-improving developer experience on projects, creating CI/CD pipelines (in particular Gitlab/Github Actions),
-and managing infrastructure (typically via **Terraform** on AWS but with some experience on GCP).
+The more hats I need to wear, the more ambiguity I need to wade through, and the more engineers & product folk I need to talk to, the happier I am.
